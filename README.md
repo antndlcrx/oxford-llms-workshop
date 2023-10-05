@@ -2,6 +2,11 @@
 
 As artificial intelligence and language models continue to revolutionize various sectors, we are thrilled to invite early career social scientists to our 3-day workshop, where we aim to bridge the gap and unlock the transformative potential of language models in the realm of social sciences!
 
+Team:
+- [Maksim Zubok, Workshop organiser](https://www.linkedin.com/in/maksim-zubok-160572232/), DPhil candidate in Politics at Oxford University, Nuffield College.
+- [Elena Voita, Lecturer](https://www.linkedin.com/in/elena-voita/), Research Scientist at FAIR (Meta AI).
+- [Ilya Boytsov, Seminarist](https://www.linkedin.com/in/ieboytsov/), NLP Lead ar Wayfair, Content Intelligence Team.
+
 🗓️ Workshop Program:
 📅 Day 1: Fundamentals of Large Language Models
 9:00 AM - 12:00 PM: Lecture
