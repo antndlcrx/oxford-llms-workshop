@@ -5,7 +5,7 @@ As artificial intelligence and language models continue to revolutionize various
 Team:
 - [Maksim Zubok, Workshop organiser](https://www.linkedin.com/in/maksim-zubok-160572232/), DPhil candidate in Politics at Oxford University, Nuffield College.
 - [Elena Voita, Lecturer](https://www.linkedin.com/in/elena-voita/), Research Scientist at FAIR (Meta AI).
-- [Ilya Boytsov, Seminarist](https://www.linkedin.com/in/ieboytsov/), NLP Lead ar Wayfair, Content Intelligence Team.
+- [Ilya Boytsov, Coding Seminars Leader](https://www.linkedin.com/in/ieboytsov/), NLP Lead ar Wayfair, Content Intelligence Team.
 
 🗓️ Workshop Program:
 📅 Day 1: Fundamentals of Large Language Models
