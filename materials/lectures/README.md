@@ -1,4 +1,4 @@
-# Workshop lectures.
+# Workshop lectures
 
 This directory contains slides of workshop lectures. Materials were designed and created by [Elena Voita](https://www.linkedin.com/in/elena-voita/).
 
