@@ -1,6 +1,6 @@
-# Workshop seminars.
+# Workshop seminars
 
- This directory contains code notebooks for each of 3 days of the workshop. Some of the visualisations are not shown in the notebooks preview. The content was designed and implemented by [Ilya Boytsov](https://www.linkedin.com/in/ieboytsov/).
+This directory contains code notebooks for each of 3 days of the workshop. Some of the visualisations are not shown in the notebooks preview. The content was designed and implemented by [Ilya Boytsov](https://www.linkedin.com/in/ieboytsov/).
 
 The notebooks were used inside the Google Colab environment. Some of the notebooks rely on GPU (T4 machine was used).
 It is possible to access the notebooks in the Google Colab via [this link](https://drive.google.com/drive/folders/1KXdb92SccOGiyox78-DPWiefL_k6iqYi?usp=sharing).
