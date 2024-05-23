@@ -25,7 +25,7 @@ The following workshop materials were designed and implemented by [Ilya Boytsov]
 - [Topic modelling with Transformers using BERTopic library](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/seminars/day_1/2_Topic%20modelling%20with%20transformers.ipynb)
 - [A guide how to fine-tune pretrained model for a classification task](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/seminars/day_1/3_Fine%20tune%20pretrained%20model.ipynb)
 - [Parameter Efficient Fine Tuning (PEFT)](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/seminars/day_2/4_Parameter%20efficient%20fine%20tuning.ipynb)
-- [Transformers interpretability, Attention visualisation, and saliancy methods (e.g. Integrated gradients)(https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/seminars/day_2/5_Transformers%20interpretability.ipynb)
+- [Transformers interpretability, Attention visualisation, and saliancy methods (e.g. Integrated gradients)](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/seminars/day_2/5_Transformers%20interpretability.ipynb)
 - [Model analys with classic NLP using Spacy](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/seminars/day_2/6_Sentiment%20analysis%20with%20classic%20NLP.ipynb)
 - [Prompts and instructions with Llama 2](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/seminars/day_3/7_Prompts%20and%20instructions%20with%20Llama%202.ipynb)
 - [Detoxifying summarisation model with Reinforcement Learning from Human Feedback (RLHF)](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/seminars/day_3/8_LLMs%20alignment%20with%20RLHF.ipynb)
