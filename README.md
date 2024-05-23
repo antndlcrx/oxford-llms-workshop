@@ -1,47 +1,19 @@
 # Oxford Large Language Models for Social Science Workshop 🚀
 
-As artificial intelligence and language models continue to revolutionize various sectors, we are thrilled to invite early career social scientists to our 3-day workshop, where we aim to bridge the gap and unlock the transformative potential of language models in the realm of social sciences!
+Large Language Models (LLMs) are revolutionising social science research with their exceptional text comprehension capabilities, opening new avenues for innovation. However, LLMs can introduce social biases into the output, and the reliability of their outputs can vary. Safely and responsibly harnessing LLMs while fostering innovation requires specialised training—a challenging task given the rapid pace of LLM research, with new models and updates emerging weekly.
 
-Team:
+Oxford LLMs addresses these challenges by uniting machine learning scientists, leading researchers, and industry practitioners to offer comprehensive training to social scientists. Our goal is to bridge the gap between academia and industry, as well as between social sciences and computer science, with a focus on natural language processing. Our workshop equips participants with the latest skills and fosters a community that promotes innovation in social science research, ensuring the safe and responsible use of LLMs.
+
+## Contributors
 - [Maksim Zubok, Workshop organiser](https://www.linkedin.com/in/maksim-zubok-160572232/), DPhil candidate in Politics at Oxford University, Nuffield College.
-- [Elena Voita, Lecturer](https://www.linkedin.com/in/elena-voita/), Research Scientist at FAIR (Meta AI).
 - [Ilya Boytsov, Coding Seminars Leader](https://www.linkedin.com/in/ieboytsov/), NLP Lead ar Wayfair, Content Intelligence Team.
+- [Elena Voita, Lecturer](https://www.linkedin.com/in/elena-voita/), Research Scientist at FAIR (Meta AI), lecturer at Oxford LLMs 2023
 
-🗓️ Workshop Program:
-📅 Day 1: Fundamentals of Large Language Models
-9:00 AM - 12:00 PM: Lecture
-During this session, you'll gain a comprehensive understanding of the fundamental concepts underlying language models. We'll explore the evolutionary journey from rule-based systems to modern Transformers-based models, which are the state-of-the-art technology in natural language processing (NLP).
+## Contents 
+- [The Evolutionary Journey of NLP](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/lectures/day_1/The%20Evolutionary%20Journey%20in%20NLP.pdf) from rule-based systems to modern Transformers-based models, which are the core technology underpinning LLMs. Video coming soon! 
 
-12:00 PM - 1:00 PM: Lunch Break
+- [Bias in LLMs and a (bit of) Interpretability](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/lectures/day_2/Bias%20in%20LLMs%20and%20interpretability.pdf). Video coming soon!
 
-1:00 PM - 4:00 PM: Coding Tutorial: Introduction to Transformer Models
-Get hands-on experience implementing and utilizing Transformer models for various NLP tasks in social sciences. Practical exercises and coding examples will be provided.
+- [LLMs and Alignment](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/lectures/day_3/Prompt%20engineering%2C%20RHLF%2C%20ChatGPT.pdf)
 
-📅 Day 2: Model Interpretation and Debiasing
-9:00 AM - 12:00 PM: Lecture
-Learn techniques for interpreting language model outputs, including attention visualization and probing. We'll also address model bias and explore strategies to detect and mitigate bias in language models, ensuring unbiased social science research.
-
-12:00 PM - 1:00 PM: Lunch Break
-
-1:00 PM - 4:00 PM: Coding Tutorial: Interpreting and Debiasing Language Models
-Apply the concepts covered in the lecture to interpret and debias language models. Hands-on experience with various interpretation techniques and practical exercises will be provided.
-
-📅 Day 3: Recent Developments: Large Language Models and Alignment
-9:00 AM - 12:00 PM: Lecture
-Discover recent advancements in language models, including large-scale models and reinforcement learning from human feedback (RLHF). Understand the creation process of InstructGPT models, like the popular ChatGPT, and explore their applications in social science research.
-
-12:00 PM - 1:00 PM: Lunch Break
-
-1:00 PM - 4:00 PM: Coding Tutorial: Advanced Techniques with Large Language Models and Alignment
-Explore advanced techniques with large language models and RLHF. Gain hands-on experience with fine-tuning large-scale models using RLHF methods on your own research questions and datasets.
-
-4:00 PM - 6 PM: Coding Challenge and Awards Ceremony 🏆
-Team up to tackle a challenging research problem! Showcase your creativity, efficiency, and innovation in solving the task using language models. Prizes will be awarded for the most outstanding solutions and innovations. This is your chance to test your skills, build networks, and delve deep into the thrilling world of language models!
-
-📍 Location: [Department of Sociology (Oxford University), 42 Park End St, Oxford OX1 1JD]
-🎓 Limited Seats Available! Apply now to secure your spot!
-🌐 [Application Link](https://forms.gle/BVYmKGhepGE9Y5HT6)
 📧 For inquiries, contact [maksim.zubok@nuffield.ox.ac.uk](mailto:maksim.zubok@nuffield.ox.ac.uk)
-#LanguageModels #SocialScience #AIinResearch #NLP #Workshop
-
-Join us at the forefront of innovation in social science research! Let's harness the power of language models together and revolutionize the future! 🌟
