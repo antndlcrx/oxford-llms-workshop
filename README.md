@@ -31,7 +31,7 @@ We will upload the workshop recordings soon!
 - [Prompts and instructions with Llama 2](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/seminars/day_3/7_Prompts%20and%20instructions%20with%20Llama%202.ipynb)
 - [Detoxifying summarisation model with Reinforcement Learning from Human Feedback (RLHF)](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/seminars/day_3/8_LLMs%20alignment%20with%20RLHF.ipynb)
 
-
+### OxfordLLMs 2024 is confirmed and will be announced soon!
 
 # Contact
 📧 For inquiries, contact [maksim.zubok@nuffield.ox.ac.uk](mailto:maksim.zubok@nuffield.ox.ac.uk)
