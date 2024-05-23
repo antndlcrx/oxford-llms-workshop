@@ -20,6 +20,7 @@ Video coming soon!
 
 ### 2023 Workshops
 The following workshop materials were designed and implemented by [Ilya Boytsov](https://www.linkedin.com/in/ieboytsov/).
+We will upload the workshop recordings soon!
 - [Google Colab environment setup, general intro](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/seminars/day_1/0_Env%20setup%20and%20intro.ipynb)
 - [Introduction to Huggingface transformers library](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/seminars/day_1/1_Intro%20to%20transformers.ipynb)
 - [Topic modelling with Transformers using BERTopic library](https://github.com/antndlcrx/oxford-llms-workshop/blob/main/materials/seminars/day_1/2_Topic%20modelling%20with%20transformers.ipynb)
